@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-UK"
+locale                   : "en-GB"
 title                    : "Mardiyyah Oduwole"
 title_separator          : "-"
 name                     : &name "Mardiyyah Oduwole"
-description              : &description "personal description"
+description              : &description "An Independent ML Researcher who finds Multilingual NLP and Machine Learning Efficiency interesting and loves to work in the field"
 url                      : https://mardiyyahoduwole.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # "hemhemoh/mardiyyahoduwole.github.io"
