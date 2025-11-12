@@ -15,21 +15,26 @@ redirect_from:
 
 
 
-Relevant Ongoing Research Projects
+<!-- Relevant Ongoing Research Projects
 ======
 * Lead Investigator, African Sign Language Project
   * September 2022 - Present 
 * Co-Lead Investigator,African Multilingual Multimodal Benchmark
   * August 2024 - Present 
 * Co-Lead Investigator, Data Augmentation in African Machine Translation
-  * January 2024 - July 2024 (In Submission)
+  * January 2024 - July 2024 (In Submission) -->
 
 
 News
 ------
 <ul>
-  <li>I am currently applying to graduate schools for a PhD in CS! </li>
-  <li>Our paper preprint, What Happens When Small Is Made Smaller? Exploring the impact of Compression on Small Data Pretrained Language Models, was accepted into AfricaNLP, ICLR. (Apr 2024) </li>
+  <li>I am currently applying to graduate schools for a graduate degree in CS! </li>
+  <li>Our paper preprint "AfriCaption: Establishing a New Paradigm for Image Captioning in African Languages" is now on arxiv (August 2025) </li>
+  <li>I joined SumUP as an accelerator engineer, working on AI Agents and RAG systems(March 2025) </li>
+  <li>At the deep learning Indaba, I will be presenting a poster on my work "From Scarcity to Efficiency: Investigating the Effects of Data Augmentation on African Machine Translation"(September 2024) </li>
+  <li>This September (2024), I’ll be attending Deep Learning Indaba — Africa’s largest research conference — in Senegal for the third year in a row. </li>
+  <li> I started working on a new research project on Image Captioning for African Languages (July 2024) </li>
+  <li>Our paper, What Happens When Small Is Made Smaller? Exploring the impact of Compression on Small Data Pretrained Language Models, was accepted into AfricaNLP, ICLR. (April 2024) </li>
   <li>I graduated from my second bachelor's degree (A CS degree!) in April, means a lot to me because I had to juggle being an ML engineer, an independent researcher and a student all at once. </li>
   <li>I am now based in London, England, and open to ML engineering roles and research internships. </li>
   <li>Our paper, MasakhaNEWS: News Topic Classification for African Languages, received the Area Chair Award under the resources and evaluation track at IJCNLP-AACL 2023.</li>
