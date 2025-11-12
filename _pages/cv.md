@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<meta http-equiv="refresh" content="0; url={{ '/files/my_cv.pdf' | relative_url }}">
+<meta http-equiv="refresh" content="0; url={{ '/files/Mardiyyah_Oduwole_CV.pdf' | relative_url }}">
 
 <!-- Optional fallback message in case redirection doesn't work -->
-<p>If you're not redirected, click <a href="{{ '/files/my_cv.pdf' | relative_url }}">here</a> to view my CV.</p>
+<p>If you're not redirected, click <a href="{{ '/files/Mardiyyah_Oduwole_CV.pdf' | relative_url }}">here</a> to view my CV.</p>
