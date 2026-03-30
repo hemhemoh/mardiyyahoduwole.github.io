@@ -16,6 +16,7 @@ out/
 .env.*.local
 EDITING_GUIDE.md
 BLOG_SETUP.md
+UPDATE_AND_DEPLOY.md
 
 # IDE / Editor
 .vscode/
